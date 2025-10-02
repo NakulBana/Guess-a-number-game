@@ -28,9 +28,9 @@ This game is inside the `Guess_a_number` folder.
 
 ## 🚀 Live Demo
 
-👉 [Play the Game](https://guess-a-number-game.vercel.app)  
-_(Replace this with your real Vercel link)_
+👉 [Play the Game](https://guess-a-number-game-umhm.vercel.app/)  
+
 
 ## 🙌 Author
 
-Made with ❤️ by **Nakul Bana**
+Created by **Nakul Bana**
