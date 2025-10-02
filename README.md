@@ -4,7 +4,7 @@ A fun and simple number guessing game made with HTML, CSS, and JavaScript.
 
 ## 📷 Screenshot
 
-![Game Screenshot](Guess_a_number/Screenshot.png)
+![Game Screenshot](Screenshot.png)
 
 
 ## 🔹 How to Play
